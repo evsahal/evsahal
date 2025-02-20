@@ -1,19 +1,12 @@
 <!--
 **evsahal/evsahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 💫 About Me:
-🔭 I’m currently working on a game bot that automates game tasks, manages emulator instances, and supports dynamic scheduling.<br>
+- 🔭 I’m currently working on a game bot for Evony that automates gameplay using image recognition techniques and interacts with the emulator via ADB as a side hustle.
+- 🌱I’m currently learning advanced automation techniques using Python, focusing on image processing, pattern recognition, and software logic design to improve efficiency and problem-solving skills.
+- 👯 I’m looking to collaborate on automation projects, open-source contributions, and freelance work while exploring and learning new technologies.
+- 💬 Ask me about software planning and design, including logic structuring before coding, automation with Python and image processing, full-stack development with Angular, Spring Boot, and Django, and desktop application development with Java and Python.
+- 📫 How to reach me: You can contact me on Discord (@mwonuzzz).
+- ⚡ Fun fact: I love playing video games and cricket, and when faced with a problem, I have the ability to think differently, explore multiple solutions, and make better decisions.
 
 
 ## 🌐 Socials:
@@ -36,4 +29,3 @@ Here are some ideas to get you started:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/taskenforcerx) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
