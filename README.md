@@ -1,5 +1,5 @@
 <!--
-**evsahal/evsahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**evsahal/evsahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
 # 💫 About Me:
 - 🔭 I’m currently working on a game bot for Evony that automates gameplay using image recognition techniques and interacts with the emulator via ADB as a side hustle.
 - 🌱I’m currently learning advanced automation techniques using Python, focusing on image processing, pattern recognition, and software logic design to improve efficiency and problem-solving skills.
